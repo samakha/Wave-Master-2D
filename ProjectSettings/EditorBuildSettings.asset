@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: fbec19b53a6d5944cb9b608012347ed1
+  - enabled: 1
+    path: Assets/Game(WaveMaster)/Scenes/MainScene.unity
+    guid: 7d99206c4c633194c873bfb69cdbebe5
+  - enabled: 1
+    path: Assets/Scenes/AboutThisGameScene.unity
+    guid: 8ffa2212eb732b94bbe1cfe40280de29
+  - enabled: 1
+    path: Assets/Scenes/AboutUsScene.unity
+    guid: ea3050928b873cf4d895ca9ccb9ac7ed
+  m_configObjects: {}
